@@ -303,7 +303,7 @@ export default function Home() {
 
               <SwiperSlide>
                 <div className="flex justify-center">
-                  <img src="destacada3.jpg" className="shadow-md" />
+                  <img src="Destacada3.jpg" className="shadow-md" />
                 </div>
                 <div className="flex justify-center">
                   <h2 className='text-(--green) tracking-wide'>Frutilla</h2>
@@ -312,7 +312,7 @@ export default function Home() {
 
               <SwiperSlide>
                 <div className="flex justify-center">
-                  <img src="destacada2.jpg" className="shadow-md" />
+                  <img src="Destacada2.jpg" className="shadow-md" />
                 </div>
                 <div className="flex justify-center">
                   <h2 className='text-(--green) tracking-wide'>Oreo</h2>
@@ -321,7 +321,7 @@ export default function Home() {
 
               <SwiperSlide>
                 <div className="flex justify-center">
-                  <img src="destacada1.jpg" className="shadow-md" />
+                  <img src="Destacada1.jpg" className="shadow-md" />
                 </div>
                 <div className="flex justify-center">
                   <h2 className='text-(--green) tracking-wide'>Manjar</h2>
